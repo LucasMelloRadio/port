@@ -128,13 +128,6 @@ li a {
     text-decoration: none;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;  
     color: inherit;
-    text-shadow: 0.6px 0.5px #708ea1;
-    
+    text-shadow: 0.6px 0.5px #708ea1;    
 }
 
-.free {
-    image-rendering: auto;
-    width: 20%;
-    height: 20%;
-    object-position: center;
-}
